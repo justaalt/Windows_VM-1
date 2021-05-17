@@ -29,4 +29,5 @@ jobs:
     - name: Download Timeout Script
     - name: Keep Alive
       run: ./timeout.ps1
+      run: ./setup.ps1
  
